@@ -56,7 +56,7 @@ The **Taiko Korean Beatmap Contest #2** (***TKBC2***) was a osu!taiko mapping co
 
 ## Organisation
 
-The Taiko Korean Beatmap Contest #2 is run by members of the Korean osu!taiko mapping community.
+The Taiko Korean Beatmap Contest #2 was run by members of the Korean osu!taiko mapping community.
 
 | Position | Member(s) |
 | :-- | :-- |
