@@ -59,7 +59,9 @@ The Taiko Korean Beatmap Contest #2 was run by members of the Korean osu!taiko m
 | Designer | ![][flag_KR] [oL0](https://osu.ppy.sh/users/1134683) |
 | Judge | ![][flag_KR] [\[Karcher\] 2](https://osu.ppy.sh/users/9892196), ![][flag_KR] [Petit](https://osu.ppy.sh/users/4637369), ![][flag_KR] [Ozu](https://osu.ppy.sh/users/980092) |
 
-## Results
+## Podium
+
+This competition has come to an end and resulted in the following podium:
 
 | Place | User |
 | :-: | :-- |
