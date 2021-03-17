@@ -8,7 +8,7 @@ tags:
 
 ![TKBC2 Logo](img/logo.png)
 
-The **Taiko Korean Beatmap Contest #2** (***TKBC2***) was a osu!taiko mapping contest for Koreans. It was the second installment of the TKBC.
+The **Taiko Korean Beatmap Contest #2** (***TKBC2***) was a osu!taiko mapping contest dedicated for users from ![][flag_KR] South Korea. It was the second installment of the Taiko Korean Beatmap Contest.
 
 ## Contest schedule
 
