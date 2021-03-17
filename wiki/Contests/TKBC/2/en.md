@@ -65,9 +65,9 @@ This competition has come to an end and resulted in the following podium:
 
 | Place | User |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [applerss](https://osu.ppy.sh/users/983349) |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851) |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] [ddm](https://osu.ppy.sh/users/7910282) |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [applerss](https://osu.ppy.sh/users/983349) |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851) |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | ![][flag_KR] [ddm](https://osu.ppy.sh/users/7910282) |
 
 ## Links
 
