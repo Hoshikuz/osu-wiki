@@ -61,7 +61,7 @@ The Taiko Korean Beatmap Contest #2 was run by members of the Korean osu!taiko m
 
 ## Results
 
-| Place | Mappers |
+| Place | User |
 | :-: | :-- |
 | ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | ![][flag_KR] [applerss](https://osu.ppy.sh/users/983349) |
 | ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | ![][flag_KR] [4\_4](https://osu.ppy.sh/users/1152851) |
