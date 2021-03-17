@@ -45,9 +45,9 @@ The **Taiko Korean Beatmap Contest #2** (***TKBC2***) was a osu!taiko mapping co
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold Crown](/wiki/shared/crown-gold.png "1st place") | Profile Badge |
-| ![Silver Crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of supporter |
-| ![Bronze Crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of supporter |
+| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | Unique profile badge |
+| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 2 months of osu!supporter tag |
+| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 1 month of osu!supporter tag |
 
 ## Organisation
 
