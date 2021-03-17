@@ -41,11 +41,6 @@ The **Taiko Korean Beatmap Contest #2** (***TKBC2***) was a osu!taiko mapping co
 - Source and tags must be left blank.
 - While submitting your beatmap, include the metadata in the email.
 
-## Theme
-
-- Snow
-- Star
-
 ## Prizes
 
 | Placing | Prize(s) |
