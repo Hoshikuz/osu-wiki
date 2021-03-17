@@ -39,7 +39,7 @@ The **Taiko Korean Beatmap Contest #2** (***TKBC2***) was a osu!taiko mapping co
 - Title must be `1223`.
 - Difficulty must be Oni or Inner Oni.
 - Source and tags must be left blank.
-- When submitting your map, include the metadata in the email.
+- While submitting your beatmap, include the metadata in the email.
 
 ## Theme
 
