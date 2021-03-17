@@ -14,7 +14,7 @@ The **Taiko Korean Beatmap Contest #2** (***TKBC2***) was a osu!taiko mapping co
 
 | Event | Timestamp (UTC+09) |
 | --: | :-- |
-| Submitting Phase | 2020-11-30/2020-12-27 |
+| Submission phase | 2020-11-30/2020-12-27 |
 | Judging Phase | 2020-12-28/2021-01-17 |
 | Results Announcement | 2021-01-17 |
 
